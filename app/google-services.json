@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095645924389",
+    "firebase_url": "https://tetrad-app-default-rtdb.firebaseio.com",
+    "project_id": "tetrad-app",
+    "storage_bucket": "tetrad-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095645924389:android:3e5df0a9ef7d5f102ec3cc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095645924389-ufbnjtrgds82rttq1cb3bq9tdg415pnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPLhMPX7Qv-bSaHkL6Ak12xGI2q81Edtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095645924389-ufbnjtrgds82rttq1cb3bq9tdg415pnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

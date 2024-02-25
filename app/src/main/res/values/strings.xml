@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_log_in">Click to log in</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="log_out">Log out</string>
+    <string name="enter">enter</string>
+    <string name="name_of_new_book">name of new book</string>
+    <string name="new_book_name">new book name</string>
+    <string name="create">create</string>
+    <string name="return_to_main">return to main</string>
+    <string name="enter_class">enter class</string>
+    <string name="show_my_class">show_my_class</string>
+    <string name="show_my_class1">show my class</string>
+    <string name="your_class_name">your class name</string>
+</resources>
